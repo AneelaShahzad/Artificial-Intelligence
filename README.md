@@ -8,5 +8,5 @@ This repository contains coursework labs and practical assignments for the **Art
 * Practical assignments
 * Lab exercises and implementations
 
-**Course:** Artificial Intelligence
+**Course:** Artificial Intelligence  
 **Instructor:** Sir Ghulam Mustafa
