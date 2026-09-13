@@ -1,3 +1,6 @@
+#Artificial Intelligence
+#LAB 1
+
 #comments in puthon:
 #comments in oython begin with hash # character
 
