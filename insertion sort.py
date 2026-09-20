@@ -1,5 +1,5 @@
 def insertion_sort(li):
-    for x in range(1,len(li)-1):
+    for x in range(1,len(li)):
         key=li[x]
         i=x-1
         while i>-1 and li[i]>key:
